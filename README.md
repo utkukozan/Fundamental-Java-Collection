@@ -13,6 +13,7 @@ Some of the key topics covered in the repository include:
 - Collections Framework (ArrayList, HashMap, etc.)
 - File Handling
 - Threads
+- Exercises
 
 ## How to Use
 
